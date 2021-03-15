@@ -35,7 +35,7 @@
   border-color:black;
   border-radius: 19px;
   transform: rotate(20deg);
-  background-image:url("glamping1.jpg") ;
+  background-image:url("../multimedia/glamping1.jpg") ;
 }
 
 .product-device-2 {
@@ -46,10 +46,10 @@
   background-color: #e5e5e5;
 }
 .descripcionone {
-    background-image:url("glamping2.jpg") ;
+    background-image:url("../multimedia/glamping2.jpg") ;
 }
 .descripciontwo {
-  background-image:url("glamping3.jpg") ;
+  background-image:url("../multimedia/glamping3.jpg") ;
 }
 
 /*
